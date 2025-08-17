@@ -36,3 +36,39 @@ The implementation follows a structured data preprocessing pipeline:
 
 ## Interview Questions Answered
 The notebook also includes answers to 8 common interview questions about data preprocessing concepts covered in this task.
+
+========================================================================================================
+========================================================================================================
+
+# Task 2: Exploratory Data Analysis (EDA)
+
+## Task Description
+This task focuses on performing comprehensive Exploratory Data Analysis (EDA) on the Titanic dataset. The objective was to understand the data structure, relationships between variables, and uncover patterns through statistical analysis and visualizations.
+
+## Solution Approach
+The EDA process included:
+
+1. **Descriptive Statistics**: Calculating measures of central tendency and dispersion
+2. **Univariate Analysis**: Distribution visualization of individual features
+3. **Bivariate/Multivariate Analysis**: Exploring relationships between variables
+4. **Outlier Detection**: Identifying and analyzing anomalous data points
+5. **Advanced Visualizations**: Creating insightful plots to reveal patterns
+
+## Key Insights Discovered
+- Clear survival advantage for females and higher-class passengers
+- Age distribution patterns showing better survival for children
+- Significant fare outliers indicating possible data quality issues
+- Correlation between family size and survival rates
+- Differences in survival rates by embarkation port
+
+## Files Included
+- `EDA_Titanic_Dataset.ipynb`: Complete Jupyter notebook with analysis
+- `README.md`: This documentation file
+
+## How to Run
+1. Open the notebook in Google Colab or Jupyter
+2. Run cells sequentially (all dependencies are included)
+3. The notebook downloads the dataset automatically
+
+## Interview Questions
+The notebook includes answers to all 8 required interview questions about EDA concepts.
